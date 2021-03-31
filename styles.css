@@ -1,0 +1,51 @@
+body {
+    background: black;
+    margin: 0;
+}
+
+header{
+    background: white;
+    padding: 15px;
+}
+header h1{
+    margin: 0;
+    text-align: center;
+}
+
+div.imagen img{
+    height: 500px;
+}
+
+.leftDate{
+    display: inline;
+    float: right;
+    padding: 15px;
+    color: black;
+}
+
+.principal {
+    background: white;
+    margin-top: 25px;
+}
+
+div.container{
+    width: 550px;
+    margin: auto;
+}
+
+div.container img{
+    width: 100%;
+}
+
+div.container h2{
+    display: inline;
+    margin: 0;
+    padding: 10px;
+    float: left;
+}
+
+div.container p{
+    padding: 10px;
+    margin: 0;
+}
+
